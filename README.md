@@ -33,7 +33,7 @@ No Telegram, busque pelo bot e envie o comando /futebol.
 
 ---
 
-## 📤 Passo 5: Subir para o GitHub pelo VS Code
+## 📤 Subir para o GitHub pelo VS Code
 
 Com os 4 arquivos prontos na pasta (`main.py`, `.env`, `.gitignore`, `requirements.txt` e `README.md`), faça o upload de forma super visual:
 
